@@ -1,3 +1,3 @@
 # AndroidStudio-Installation-Guide
 
-測試
+第一步下載卸載工具：
